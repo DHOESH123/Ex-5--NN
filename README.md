@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : ESHWAR T</H3>
 <H3>ENTER YOUR REGISTER NO : 212223230054</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE: 30-10-2024</H3>
+<H3>DATE: 17-11-25</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
